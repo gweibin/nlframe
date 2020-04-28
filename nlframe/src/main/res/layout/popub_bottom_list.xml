@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_bottom_tv"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="@dimen/medium_margin"
+    android:background="@color/white"
+    android:layout_marginBottom="1dp"
+    android:textColor="@color/red"
+    android:textSize="@dimen/medium_text">
+
+</TextView>

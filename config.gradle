@@ -1,0 +1,51 @@
+ext {
+
+    android = [
+            compileSdkVersion: 29,
+            buildToolsVersion: "29.0.0",
+            minSdkVersion    : 21,
+            targetSdkVersion : 29,
+            versionCode      : 1,
+            versionName      : "1.0.0"
+    ]
+
+    version = [
+            androidSupportSdkVersion  : "29.0.0",
+            constraintLayoutSdkVersion: "1.1.3",
+    ]
+
+    dependencies = [
+            //support
+            "appcompat"           : "androidx.appcompat:appcompat:1.1.0",
+            "core"                : "androidx.core:core-ktx:1.2.0",
+            "constraintlayout"    : "androidx.constraintlayout:constraintlayout:1.1.3",
+            "material"            : "com.google.android.material:material:1.1.0",
+
+            "utilcodex"           : 'com.blankj:utilcodex:1.26.0',
+
+            //http
+            "rxandroid"           : 'io.reactivex.rxjava2:rxandroid:2.1.1',
+            "rxjava"              : 'io.reactivex.rxjava2:rxjava:2.2.10',
+            "retrofit"            : 'com.squareup.retrofit2:retrofit:2.6.2',
+            "converter-gson"      : 'com.squareup.retrofit2:converter-gson:2.6.1',
+            "adapter-rxjava"      : 'com.squareup.retrofit2:adapter-rxjava2:2.6.0',
+
+            //map
+            "amap-location"       : 'com.amap.api:location:4.3.0',
+            "amap-3dmap"          : 'com.amap.api:3dmap:6.5.0',
+            "amap-search"         : 'com.amap.api:search:6.5.0',
+
+            "xpopup"              : 'com.lxj:xpopup:1.8.10-x',
+            "easyadapter"         : 'com.lxj:easyadapter:1.1.1',
+
+            //图片选择器
+            "picture-selector"         : 'com.github.LuckSiege.PictureSelector:picture_library:v2.5.3',
+
+            //下拉刷新框架
+            "smart-refresh"       : 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0',
+            "smart-refresh-header": 'com.scwang.smartrefresh:SmartRefreshHeader:1.1.0',
+
+            "glide"               : 'com.github.bumptech.glide:glide:4.11.0',
+            "glide-compiler"      : 'com.github.bumptech.glide:compiler:4.11.0'
+    ]
+}

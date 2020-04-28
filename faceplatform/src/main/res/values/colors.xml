@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#f8f8f8</color>
+    <color name="colorBlack">#000000</color>
+    <color name="brandColor">#2465ea</color>
+    <color name="brand_transparent">#23aaff</color>
+    <color name="table_title">#7aa7ff</color>
+    <color name="table_list">#f0f5ff</color>
+    <color name="table_list_bg">#f0f0f0</color>
+    <color name="light_blue">#62dfd1</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="red">#e02107</color>
+    <color name="transparent_red">#40E02107</color>
+    <color name="green">#4CAF50</color>
+    <color name="transparent_green">#404CAF50</color>
+    <color name="orange">#ff802c</color>
+    <color name="divider">#f0f0f0</color>
+    <color name="color_grey_666666">#666666</color>
+    <color name="colorAlpha60">#60000000</color>
+
+    <!-- text -->
+    <color name="textDark">#212121</color>
+    <color name="textGray">#999999</color>
+
+    <color name="login_bg">#f8f8f8</color>
+
+
+</resources>

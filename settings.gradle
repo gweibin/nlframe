@@ -1,0 +1,4 @@
+rootProject.name='NLFrame'
+include ':app'
+include ':nlframe'
+include ':faceplatform'

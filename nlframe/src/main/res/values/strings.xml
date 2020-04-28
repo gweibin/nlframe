@@ -1,0 +1,275 @@
+<resources>
+    <string name="app_name">保安通</string>
+
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="close">关闭</string>
+    <string name="submit">提交</string>
+    <string name="no_data">暂无数据</string>
+    <string name="network_error">网络不太给力，请重试</string>
+
+    <!-- login -->
+    <string name="login">登录</string>
+    <string name="registered">注册</string>
+    <string name="hint_phone_number">请输入手机号</string>
+    <string name="please_enter_password">请输入密码</string>
+    <string name="please_again_enter_password">请再次输入密码</string>
+    <string name="hint_password">请输入6-18位密码</string>
+    <string name="hint_verification_code">请输入验证码</string>
+    <string name="hint_current_password">请输入当前密码</string>
+    <string name="submit_success">提交成功</string>
+
+    <!-- index -->
+    <string name="index">首页</string>
+    <string name="one_click_alarm">一键报警</string>
+    <string name="mine">我的</string>
+    <string name="time_attendance">考勤打卡</string>
+    <string name="view_announcement">查看公告</string>
+    <string name="incident_report">事件上报</string>
+    <string name="event_center">事件中心</string>
+    <string name="command_control">指挥调度</string>
+    <string name="psychological_assessment">心理测评</string>
+
+    <!-- mine -->
+    <string name="personal_center">个人中心</string>
+    <string name="personal_info">个人资料</string>
+    <string name="modify_password">修改密码</string>
+    <string name="modify_phone">修改手机</string>
+    <string name="e_license">电子证照</string>
+    <string name="complaint">我要投诉</string>
+    <string name="about_app">关于APP</string>
+    <string name="upgrade_app">升级APP</string>
+    <string name="replace_business">更换企业</string>
+    <string name="leaving_company">离职企业</string>
+    <string name="sign_out">退出登录</string>
+    <string name="please_enter_old_password">请输入旧密码</string>
+    <string name="please_enter_new_password">请输入新密码</string>
+    <string name="please_confirm_new_password">请确认新密码</string>
+    <string name="commit_changes">提交修改</string>
+
+    <!-- attendance_record -->
+    <string name="attendance_record">考勤记录</string>
+    <string name="all">全部</string>
+    <string name="current_month">本月</string>
+    <string name="current_week">本周</string>
+    <string name="time">时间</string>
+    <string name="check_in_or_out">签到/退</string>
+
+    <!-- personal info -->
+    <string name="basic_info">基本信息</string>
+    <string name="name">姓名</string>
+    <string name="sex">性别</string>
+    <string name="identity_number">身份证号</string>
+    <string name="affiliation">所属单位</string>
+    <string name="household_register_info">户籍信息</string>
+    <string name="household_register_address">户籍地址</string>
+    <string name="current_address">现居地址</string>
+    <string name="please_enter_name">请输入真实姓名</string>
+    <string name="please_choose">请选择</string>
+    <string name="please_enter_identity_number">请输入身份证号</string>
+    <string name="please_enter_household_register_address">请输入户籍地址</string>
+    <string name="please_enter_current_address">请输入现居地址</string>
+    <string name="upload_front_photo">上传本人正面照</string>
+    <string name="upload_identity_front">上传身份证正面</string>
+    <string name="upload_identity_back">上传身份证背面</string>
+    <string name="front_photo">本人正面照</string>
+    <string name="identity_front">身份证正面</string>
+    <string name="identity_back">身份证背面</string>
+    <string name="select_company">选择公司</string>
+    <string name="please_enter_company_name">请输入单位名称</string>
+
+    <!-- event  -->
+    <string name="site_forensics">现场取证</string>
+    <string name="info_collection">信息采集</string>
+    <string name="title">标题</string>
+    <string name="type">类型</string>
+    <string name="view_project">所属项目</string>
+    <string name="whether_need_support">是否需要支援</string>
+    <string name="location">位置</string>
+    <string name="event_description">事件描述</string>
+    <string name="text_description">文字描述</string>
+    <string name="text_input_hint">请输入200字以内的文字描述</string>
+    <string name="voice_description">语音描述</string>
+    <string name="keep_talk">长按说话</string>
+    <string name="re_record">重录</string>
+    <string name="please_enter_title">请输入标题</string>
+    <string name="event_details">事件详情</string>
+    <string name="event_title">事件标题</string>
+    <string name="publisher">发布人</string>
+    <string name="event_type">事件类型</string>
+    <string name="event_desc">事件描述</string>
+    <string name="process_result">处理结果</string>
+    <string name="please_enter_process_opinion">请输入处理意见</string>
+    <string name="cooperation">协作</string>
+    <string name="end">结束</string>
+    <string name="assigned_personnel">指派人员</string>
+    <string name="play_recording">播放录音</string>
+
+    <!-- complaint -->
+    <string name="complaint_record">投诉记录</string>
+    <string name="complaint_company">我要投诉企业</string>
+    <string name="complaint_security">我要投诉保安</string>
+    <string name="complaint_subject">投诉主题</string>
+    <string name="complaint_object">投诉对象</string>
+    <string name="security_guard_code">保安员编码</string>
+    <string name="complaint_content">投诉内容</string>
+    <string name="relevant_info">相关资料</string>
+    <string name="submit_complaint">提交投诉</string>
+    <string name="please_enter_complaint_subject">请输入投诉主题</string>
+    <string name="please_enter_complaint_object">请输入投诉对象</string>
+    <string name="please_enter_security_guard_code">请输入保安员编码</string>
+    <string name="please_enter_complaint_content">请输入投诉内容</string>
+    <string name="view">查看</string>
+    <string name="complaint_detail">投诉详情</string>
+
+    <!-- PsychlAssessment -->
+    <string name="submit_review">提交测评</string>
+
+    <!-- E-License -->
+    <string name="my_certificate">我的证件</string>
+    <string name="security_guard_card">保安员证</string>
+    <string name="add_security_guard_card">添加保安员证</string>
+    <string name="view_e_license">查看电子证件</string>
+    <string name="view_id_photo">查看证件照片</string>
+    <string name="add_e_license">添加电子保安证</string>
+    <string name="view_license">查看证件</string>
+    <string name="number">编号</string>
+    <string name="practice_record">从业记录</string>
+    <string name="practice_company_name">从业单位名称</string>
+    <string name="start_time">开始时间</string>
+    <string name="end_time">结束时间</string>
+    <string name="practice_start_time">从业开始时间</string>
+    <string name="practice_end_time">从业结束时间</string>
+    <string name="service_object_status">服务对象情况</string>
+    <string name="service_object_name">服务对象名称</string>
+    <string name="detail">详情</string>
+    <string name="occupation_grade">职业等级</string>
+    <string name="license_manage">证件管理</string>
+    <string name="place_of_issue">证件签发地</string>
+    <string name="keep_adding">继续添加</string>
+    <string name="please_enter_person_name">请输入人员姓名</string>
+    <string name="basic_info_check">保安证基本信息核对</string>
+    <string name="confirm_info">确认信息</string>
+    <string name="date_birth">出生年月</string>
+    <string name="identity_card">公民身份证</string>
+    <string name="address">地址</string>
+    <string name="card_number">证件编号</string>
+    <string name="date_issue">发证日期</string>
+    <string name="next_step">确认无误，进入下一步</string>
+    <string name="upload_certificate">上传证件</string>
+    <string name="certificate_info_upload">证件信息上传</string>
+    <string name="upload_personal_info">点击上传个人信息页</string>
+    <string name="upload_certificate_info">点击上传证件首页</string>
+    <string name="finish_adding">完成添加</string>
+    <string name="add_completed">添加完成</string>
+    <string name="return_index_page">返回首页</string>
+    <string name="e_license_info">电子证件信息</string>
+    <string name="id_photo_info">证件照片信息</string>
+
+    <!-- command control -->
+    <string name="start_intercom">发起对讲</string>
+    <string name="start_voice">发起语音</string>
+    <string name="address_book">通讯录</string>
+    <string name="record">记录</string>
+
+    <!-- 云信SDK所需文案 -->
+    <string name="nim_status_bar_multi_messages_incoming">%1$d位联系人有新消息</string>
+    <string name="nim_status_bar_ticker_text">%1$s有新消息</string>
+    <string name="nim_status_bar_image_message">%1$s发来一条图片消息</string>
+    <string name="nim_status_bar_audio_message">%1$s发来一条语音消息</string>
+    <string name="nim_status_bar_video_message">%1$s发来一条视频消息</string>
+    <string name="nim_status_bar_file_message">%1$s发来一条文件消息</string>
+    <string name="nim_status_bar_location_message">%1$s分享了一个地理位置</string>
+    <string name="nim_status_bar_notification_message">%1$s: 通知消息</string>
+    <string name="nim_status_bar_custom_message">%1$s: 自定义消息</string>
+    <string name="nim_status_bar_unsupported_message">%1$s: 无法显示该内容</string>
+    <string name="nim_status_bar_hidden_msg_content">你收到一条新消息</string>
+
+    <string name="input_account">请输入帐号</string>
+    <string name="settings">设置</string>
+    <string name="main_tab_session">会话</string>
+    <string name="main_tab_contact">通讯录</string>
+    <string name="readed">已读</string>
+    <string name="unread">未读</string>
+    <string name="about">关于</string>
+    <string name="privatization_config">私有化配置</string>
+    <string name="logout">注销</string>
+    <string name="add">添加</string>
+    <string name="remove">移除</string>
+    <string name="menu">菜单</string>
+    <string name="verify_reminder">验证提醒</string>
+    <string name="without_content">暂无</string>
+    <string name="create">新建</string>
+    <string name="delete_tip">删除提示</string>
+    <string name="delete_system_message">删除该条系统消息？</string>
+    <string name="delete_success">删除成功</string>
+    <string name="clear_all_success">清空成功</string>
+    <string name="login_failed">帐号或密码错误</string>
+    <string name="login_exception">无效输入</string>
+    <string name="file_browser">文件浏览器</string>
+    <string name="upload_text">上传</string>
+    <string name="download_text">下载</string>
+    <string name="now_allow_space">不能含有空格</string>
+    <string name="open">开启</string>
+    <string name="search_advanced_team">搜索高级群</string>
+    <string name="net_broken">当前网络不可用</string>
+    <string name="nim_status_unlogin">未登录</string>
+    <string name="nim_status_connecting">连接中...</string>
+    <string name="nim_status_logining">登录中...</string>
+    <string name="copyright">Copyright ©1997-2020 网易公司版权所有</string>
+    <string name="user_not_exsit">该用户不存在</string>
+    <string name="user_tips">请检查你输入的帐号是否正确</string>
+    <string name="edit">编辑</string>
+    <string name="input_panel_audio_call">语音通话</string>
+    <string name="input_panel_video_call">视频通话</string>
+    <string name="message_info">聊天信息</string>
+    <string name="avchat_list">音视频通话记录</string>
+    <string name="create_normal_team">创建讨论组</string>
+    <string name="msg_notice">消息提醒</string>
+    <string name="snapchat_longclick_to_view">按住查看</string>
+    <!-- 已读回执 -->
+    <string name="send_ack_msg">发送已读回执消息</string>
+    <string name="ack_msg_info">消息已读详情</string>
+    <string name="ack_msg_tip">已读回执能力支持文本、图片、音频、视频、文件、自定义等消息类型。此处仅以文本消息作为演示，开发者可以根据具体业务场景进行功能设计。</string>
+    <string name="down_time_enable_notification">免打扰期间显示通知</string>
+    <string name="independent_mode_error">独立AppKey模式，appKey不能为空</string>
+    <string name="appkey_cannot_empty">appKey不能为空</string>
+    <string name="view_cloud_session">查看云端会话</string>
+    <string name="cloud_session_list">云端会话列表</string>
+    <string name="message_history_query">云消息记录</string>
+    <string name="message_history_query_ingore">云消息记录(被清除消息入库)</string>
+    <string name="message_history_query_remember">云消息记录(被清除消息不入库)</string>
+    <string name="message_search_title">搜索本地消息记录</string>
+    <string name="message_clear">清空本地消息记录</string>
+    <string name="message_clear_record">清空本地消息记录(记录操作)</string>
+    <string name="message_clear_not_record">清空本地消息记录(不记录操作)</string>
+    <string name="message_p2p_clear">清空点对点历史消息</string>
+    <string name="message_p2p_clear_tips">确定清空点对点历史消息?</string>
+    <string name="sure_keep_roam">确认单保留漫游</string>
+    <string name="prepare_data">正在准备数据...</string>
+
+    <!-- face -->
+    <string name="detect_no_face">未检测到人脸</string>
+    <string name="detect_face_in">把脸移入框内</string>
+    <string name="detect_zoom_in">手机拿近一点</string>
+    <string name="detect_zoom_out">手机拿远一点</string>
+    <string name="detect_head_up">建议略微抬头</string>
+    <string name="detect_head_down">建议略微低头</string>
+    <string name="detect_head_left">建议略微向左转头</string>
+    <string name="detect_head_right">建议略微向右转头</string>
+    <string name="detect_occ_face">脸部有遮挡</string>
+    <string name="detect_low_light">光线再亮些</string>
+    <string name="detect_keep">请保持不动</string>
+    <string name="detect_standard">请正对手机</string>
+    <string name="detect_timeout">检测超时</string>
+    <string name="liveness_eye">眨眨眼</string>
+    <string name="liveness_mouth">张张嘴</string>
+    <string name="liveness_head_left">向左缓慢转头</string>
+    <string name="liveness_head_right">向右缓慢转头</string>
+    <string name="liveness_head_left_right">摇摇头</string>
+    <string name="liveness_head_up">缓慢抬头</string>
+    <string name="liveness_head_down">缓慢低头</string>
+    <string name="liveness_good">非常好</string>
+
+
+</resources>
